@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F75E0D63-89E8-4A8C-A2B6-39AAB69A1117}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MarshSupermarkets/Tests.cs">
+    <Files>
+      <File FileName="MarshSupermarkets/AppInitializer.cs" Line="34" Column="23" />
+      <File FileName="MarshSupermarkets/Tests.cs" Line="29" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MarshSupermarkets PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
